@@ -1,0 +1,9 @@
+<application>
+  <component name="CsvEditorSettings">
+    <option name="TAB_HIGHLIGHT_COLOR" value="-55510" />
+    <option name="TABLE_EDITOR_ROW_HEIGHT" value="2" />
+    <option name="TABLE_AUTO_COLUMN_WIDTH_ON_OPEN" value="true" />
+    <option name="ZERO_BASED_COLUMN_NUMBERING" value="true" />
+    <option name="QUOTING_ENFORCED" value="true" />
+  </component>
+</application>
