@@ -1,2 +1,0 @@
-# conf-jetbrains
-Jetbrains configuration
